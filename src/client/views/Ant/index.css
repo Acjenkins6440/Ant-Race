@@ -1,0 +1,33 @@
+svg {
+  width: 100px;
+  padding-right: 8px;
+}
+
+.ant {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border: 1px solid black;
+  border-radius: 0.5em;
+  font-size: 24px;
+  margin: 8px;
+  padding: 8px;
+  width: 10em;
+  height: 14em;
+  background: #836539;
+}
+
+.ant-name {
+  height: 30px;
+
+}
+
+.ant-details {
+  display: flex;
+  align-items: center;
+  height: 8em;
+}
+
+p {
+  text-align: center;
+}

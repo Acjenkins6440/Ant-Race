@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+}
+
+.error-display p {
+  color: red;
+  font-size: 20px;
+}
+
+.ants {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+button {
+  background: transparent;
+  color: #836539;
+  border: 1px solid #836539;
+  border-radius: 5em;
+  font-size: 20px;
+  padding: 16px 32px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #83653966;
+}
